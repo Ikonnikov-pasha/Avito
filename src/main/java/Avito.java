@@ -7,6 +7,7 @@ import org.openqa.selenium.support.ui.Select;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
+
 public class Avito {
     public static void main(String[] args) {
         System.setProperty("webdriver.chrome.driver","/Users/toster/Documents/Driver/chromedriver");
